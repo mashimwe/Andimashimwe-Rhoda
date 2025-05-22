@@ -1,7 +1,7 @@
 # Andimashimwe-Rhoda
 python recess
 
-# Andimashimwe Rhoda – Python Class Code Files
+# Class Code Files
 
 This repository contains code files from my Python recess classes.
 
